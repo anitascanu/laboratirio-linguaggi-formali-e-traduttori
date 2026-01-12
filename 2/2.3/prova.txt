@@ -1,0 +1,17 @@
+/*calcola velocità*/
+assign 300 to d; // distanza
+assign 10 to t; // tempo
+print(* d t)
+
+
+/*ihdsfhsodifhsdo * dsiofhsdoih *
+sdofihdso *iodsfhsio/ ihdff
+*/
+
+assign 3 to x;
+
+assign 300 to d /*distanza*//*da Torino a Lione*/
+
+x*/ ciao
+
+(5/8)

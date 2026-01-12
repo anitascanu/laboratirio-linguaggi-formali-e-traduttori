@@ -1,0 +1,6 @@
+(x||y)&&z
+while(!x)
+41*5 + 17/2
+if(x == y)
+12abc
+0abc

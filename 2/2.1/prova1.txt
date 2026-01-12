@@ -1,0 +1,7 @@
+assign 0 to x;
+if(z == x) assign 3 to z;
+else assign 2 to z;
+while(x <> 0){
+	if(x >= y) print(x);
+}
+read(b)

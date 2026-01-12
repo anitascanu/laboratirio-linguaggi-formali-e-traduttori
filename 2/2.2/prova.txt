@@ -1,0 +1,7 @@
+assign 0 to 123ciao
+
+____12ciao
+
+_01
+
+ciao_Come_stai123
